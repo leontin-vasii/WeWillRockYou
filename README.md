@@ -79,3 +79,5 @@ This task is carried out immediately after the previous one (Hurt Me Plenty).
 4. Make a push and make sure that the second repository on the github looks the same as the first.
 
 5. Return the remote settings to their initial state: pull and push of the first local repository lead to one remote repository on the github.
+
+edited.
